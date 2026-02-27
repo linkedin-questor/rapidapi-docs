@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkinfoplug_docs=globalThis.webpackChunkinfoplug_docs||[]).push([[2634],{192:(e,t,n)=>{n.r(t),n.d(t,{default:()=>u});var r=n(6347),s=n(4848);function u(){return(0,s.jsx)(r.rd,{to:"/api-reference/getting-started"})}}}]);
